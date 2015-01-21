@@ -11,18 +11,8 @@ Attempt to migrate DevAdictos WP Blog to a fresh platform
 ## Sources
 - [Ghost for beginners](http://ghostforbeginners.com/)
 
-## TODO
-- [ ] Add apps (plugins) to Ghost
-- [ ] Change main theme
+## TODOs
+See [TODOs List](./docs/TODOS.md)
 
-## Desired features
-- [ ] Include Google Analytics
-- [ ] Include Dissqus
 
-## Done
-- [x] Getting started
-    - [x] Install Ghost from GitHub stable branch
-    - [x] Install Ghost as a npm module
-    - [x] Create index file to start Ghost instance
-
-Made with love in Marbella by Lubert
+Made with &#9829; in Marbella by [Lubert](es.linkedin.com/in/lubertpalacios/en)
