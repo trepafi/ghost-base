@@ -1,4 +1,4 @@
-DevAdictos powered by Ghost
+Ghost
 ==
 
 Attempt to migrate DevAdictos WP Blog to a fresh platform
