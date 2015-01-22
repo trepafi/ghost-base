@@ -11,6 +11,9 @@ Attempt to migrate DevAdictos WP Blog to a fresh platform
 ## Sources
 - [Ghost for beginners](http://ghostforbeginners.com/)
 
+## Usage
+See [USAGE.md](./docs/USAGE.md)
+
 ## TODOs
 See [TODOs List](./docs/TODOS.md)
 
