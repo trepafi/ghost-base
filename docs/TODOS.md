@@ -4,7 +4,8 @@
 - [ ] Add apps (plugins) to Ghost
 - [ ] Change main theme
 - [ ] Add Google Analytics support
-- [ ] Add disquss
+- [ ] Add Disqus
+- [ ] Migrate from [Wordpress](http://ghostforbeginners.com/how-to-transfer-blog-posts-from-wordpress-to-ghost/)
 
 
 ## Done tasks

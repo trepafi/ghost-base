@@ -8,14 +8,19 @@ Ghost Usage
 ## Installing
 - Clone the base repo
 ```
-git clone git@github.com:trepafi/ghost-base.git
+$ git clone git@github.com:trepafi/ghost-base.git
+```
+- Installing packages
+```
+$ npm install
+$ bower install
 ```
 
 ## Updating submodules
 - This will download the source of the submodules
 ```
-git submodule init
-git submodule update
+$ git submodule init
+$ git submodule update
 ```
 
 ## Execute Ghost
